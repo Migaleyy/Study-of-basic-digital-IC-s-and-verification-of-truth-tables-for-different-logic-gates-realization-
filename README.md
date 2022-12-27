@@ -64,6 +64,8 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+
+
 ![Basic-Quaternary-Multi-Input-Operators-Truth-Table](https://user-images.githubusercontent.com/118262199/209638114-b72bc802-22ec-4ab1-8a1e-a9e9a34dbcde.png)
 
 
