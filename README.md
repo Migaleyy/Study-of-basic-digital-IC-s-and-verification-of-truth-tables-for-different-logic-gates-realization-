@@ -62,7 +62,7 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: 
 RegisterNumber:  
-*/
+22006541
 Logic symbol & Truthtable
 
 
