@@ -64,7 +64,8 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
-![image](https://user-images.githubusercontent.com/118262199/209637940-4be2fd64-3e48-4a08-a5d1-536c68999e53.png)
+![Basic-Quaternary-Multi-Input-Operators-Truth-Table](https://user-images.githubusercontent.com/118262199/209638114-b72bc802-22ec-4ab1-8a1e-a9e9a34dbcde.png)
+
 
 RTL realization
 Output:
