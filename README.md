@@ -64,6 +64,8 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+![image](https://user-images.githubusercontent.com/118262199/209637940-4be2fd64-3e48-4a08-a5d1-536c68999e53.png)
+
 RTL realization
 Output:
 ![image](https://user-images.githubusercontent.com/118262199/209637585-d3ce4c2e-2061-41b8-976d-812ee9aaceac.png)
